@@ -6,11 +6,12 @@ In statistics, exploratory data analysis is an approach to analyzing data sets t
 
 ## Proposed methods
 
-Here I am discussing mainly four advanced python libraries for performing the exploratory data analysis. They are
+Here I am discussing mainly four advanced python libraries for performing the exploratory data analysis. They are  
 
-1 - pandas-profiling
-2 - streamlit
-3 - sweetviz
-4 - wordcloud
+1 - pandas-profiling  
+2 - streamlit  
+3 - sweetviz  
+4 - wordcloud  
+
 
 
