@@ -19,10 +19,7 @@ This is one example result after the exploratory data analysis on a sample datas
 ## Proposed methods
 
 Here I am discussing mainly four advanced python libraries for performing the exploratory data analysis. They are  
-  
-  C - Outlier detection analysis  
-  D - Percentile based outlier removal  
-  E - Ccorrelation
+
 1 - pandas-profiling  
 2 - streamlit  
 3 - sweetviz  
