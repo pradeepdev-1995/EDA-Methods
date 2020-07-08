@@ -7,7 +7,7 @@ Pandas profiling is an open source Python module with which we can quickly do an
 pip install -r requirements.txt
 
 ## Run
-python3 eda_pandas-profiling.py
+python3 eda_pandas_profiling.py
 
 ## Output
 
