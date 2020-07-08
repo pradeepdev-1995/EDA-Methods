@@ -1,6 +1,6 @@
 # Streamlit web app for data visualization and EDA
 
-Streamlit’s open-source app framework is the easiest way for data scientists and machine learning engineers to create beautiful, performant apps in only a few hours!  All in pure Python. Streamlit is also used for automated Exploration Data Analysis.
+Streamlit’s open-source app framework is the easiest way for data scientists and machine learning engineers to create beautiful, performant apps in a few hours!  All in pure Python. Streamlit is also used for automated Exploration Data Analysis.
 
 ## Dependancies
 

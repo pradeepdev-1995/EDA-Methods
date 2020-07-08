@@ -1,6 +1,6 @@
 # Pandas profiling
 
-Pandas profiling is an open source Python module with which we can quickly do an exploratory data analysis with just a few lines of code. Besides, if this is not enough to convince us to use this tool, it also generates interactive reports in web format that can be presented to any person, even if they don’t know programming
+Pandas profiling is an open source Python module with which we can quickly do an exploratory data analysis with just a few lines of code. It generates profile reports from a pandas DataFrame. The pandas df.describe() function is great but a little basic for serious exploratory data analysis. pandas_profiling extends the pandas DataFrame with df.profile_report() for quick data analysis.
 
 ## Dependancies
 

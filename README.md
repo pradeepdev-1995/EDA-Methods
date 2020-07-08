@@ -4,7 +4,7 @@ In statistics, exploratory data analysis is an approach to analyzing data sets t
 
 ## Techniques for performing EDA
 
-Some of the most common methods for performing the exploratory data analysis are given below. Definitely there are lots of another methods also  
+Some of the most common methods for performing the exploratory data analysis are given below. Definitely there are a lot of other methods.  
 
 A - Univariate and bivariate analysis  
 B - Missing value analysis  
