@@ -10,7 +10,7 @@ pip install -r requirements.txt
 
 ## Run
 
-python3 run eda_sweetviz.py
+python3 eda_sweetviz.py
 
 ## Output
 
